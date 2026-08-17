@@ -1,0 +1,9 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+TestItemExamplePackage = "d5163d8a-30d8-45f6-a98f-5aa01283b29f"
+
+[sources]
+TestItemExamplePackage = {path = ".."}
+
+[compat]
+Documenter = "1"
